@@ -1,5 +1,6 @@
 import java. util. *;
 public class longestCommonPrefix {
+          // Longest Common Prefix
 
     public static String prefix(String[] str) {
         StringBuilder result = new StringBuilder();
