@@ -1,5 +1,6 @@
 public class firstOccurance {
     public static void printIndex(String str, String s) {
+       // Find the Index of First Occurrence in the String
         int pos = str.indexOf(s);
 
         if (pos == -1)
