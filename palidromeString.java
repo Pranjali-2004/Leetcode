@@ -1,5 +1,6 @@
 public class palidromeString {
     public boolean isPalindrome(int x) {
+      //  Palindrome Number
         if (x < 0) {
             return false;
         }
